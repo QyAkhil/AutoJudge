@@ -71,6 +71,7 @@ cd AutoJudge
 
 # Create a virtual environment
 python -m venv venv
+venv\Scripts\Activate
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
