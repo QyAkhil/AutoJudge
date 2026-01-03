@@ -66,8 +66,8 @@ AutoJudge is a machine learning-based tool that predicts the difficulty level of
 ## Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/autojudge.git
-cd autojudge
+git clone https://github.com/QyAkhil/AutoJudge
+cd AutoJudge
 
 # Create a virtual environment
 python -m venv venv
