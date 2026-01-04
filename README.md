@@ -50,16 +50,16 @@ AutoJudge is a machine learning-based tool that predicts the difficulty level of
 ---
 
 ## Models Used (Classification)
-- **XGBoost** – Accuracy: 68.84  
-- **Logistic Regression** – Accuracy: 68.42  
-- **Random Forest** – Accuracy: 67.1  
-- **Support Vector Machine (SVM)** – Accuracy: TBD  
+- **XGBoost** – Accuracy: 67.15%  
+- **Logistic Regression** – Accuracy: 67.55%  
+- **Random Forest** – Accuracy: 64.69%  
+- **Support Vector Machine (SVM)** – Accuracy: 64.12%  
 
 ---
 
 ## Models Used (Regression)
-- **XGBoost Regressor** – MAE: ~355 | R² Score: 0.602  
-- **Random Forest Regressor** – MAE: ~382 | R² Score: 0.539  
+- **XGBoost Regressor** – MAE: ~355.26 | R² Score: 0.5819  
+- **Random Forest Regressor** – MAE: ~385.78 | R² Score: 0.5227 
 
 ---
 
